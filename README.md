@@ -1,2 +1,5 @@
-# gender-pronoun-bias-moral-judgments-llms
-Paper "Widespread Gender and Pronoun Bias in Moral Judgments Across LLMs": paper + data for a controlled study of person/number pronouns and gender markers in LLM fairness judgments. Generates 14,850 ETHICS counterfactuals; measures SPD disparities across GPT, LLaMA, Mistral, Gemma, DeepSeek &amp; Grok.
+# Widespread Gender and Pronoun Bias in Moral Judgments Across LLMs - LREC 2026
+Repository with data for the paper “Widespread Gender and Pronoun Bias in Moral Judgments Across LLMs.” This work presents a controlled, sentence-level study of how grammatical person, number, and gender markers shape LLM moral classifications of fairness. Starting from 550 balanced base sentences from the ETHICS dataset, we generate 14,850 semantically equivalent counterfactual variants (26 per item) by systematically varying pronouns and gender markers. We evaluate six model families (Grok, GPT, LLaMA, Gemma, DeepSeek, and Mistral) and quantify inter-group disparities using Statistical Parity Difference (SPD). Results reveal statistically significant biases: singular and third-person sentences are more often judged as “fair,” while second-person formulations are penalized. Gender markers have the strongest effects, with non-binary subjects consistently favored and male subjects disfavored. The repository includes the paper.
+
+
+*Paper/data coming soon.*
