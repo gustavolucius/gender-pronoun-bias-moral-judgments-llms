@@ -3,3 +3,12 @@ Repository with data for the paper “Widespread Gender and Pronoun Bias in Mora
 
 
 *Paper/data coming soon.*
+
+
+## Reporting checklist (GUIDE-LLM)
+
+We include a GUIDE-LLM reporting checklist as supplementary documentation for this study:
+- [GUIDE-LLM completed checklist](docs/reporting/GUIDE-LLM_filled_checklist.pdf)
+
+GUIDE-LLM is a consensus-based reporting checklist for describing how LLMs are used in behavioral and social science research:
+- https://sfeuerriegel.github.io/llm-checklist/how-to-use/
