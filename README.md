@@ -24,7 +24,7 @@ The `data/` directory contains the full dataset used in the paper, organized int
 - `predictions/`: model predictions for each variant at temperature 0
 - `sentences/`: the sentence files for each counterfactual variant
 
-The dataset is built from 550 base sentences. We generate 27 counterfactual variants per sentence (excluding variants whose code contains `&`), resulting in a total of 14,850 sentences. Predictions are provided for 9 models, with one file per model and variant.
+The dataset is built from 550 base sentences. We generate 27 counterfactual variants per sentence, resulting in a total of 14,850 sentences. Predictions are provided for 9 models, with one file per model and variant.
 
 See [`data/README.md`](data/README.md) for a complete description of the file structure, naming conventions, and variant codes.
 
